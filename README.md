@@ -6,22 +6,13 @@
   <a href="https://www.linkedin.com/in/raadwan-masum-9147bb1a5">
     <img align="center" width="30px" src="https://image.flaticon.com/icons/svg/1384/1384030.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/raadwan-masum-9147bb1a5">
-    <img align="center" width="30px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" />
+  <a href="https://www.youtube.com/channel/UCqkuaow2vqa6b9iSaAS0VKQ?view_as=subscriber">
+    <img align="center" width="30px" src="https://image.flaticon.com/icons/svg/733/733646.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/raadwan-masum-9147bb1a5">
-    <img align="center" width="30px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" />
+  <a href="https://www.instagram.com/raad1masum/">
+    <img align="center" width="30px" src="https://image.flaticon.com/icons/svg/87/87390.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/raadwan-masum-9147bb1a5">
-    <img align="center" width="30px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/raadwan-masum-9147bb1a5">
-    <img align="center" width="30px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/raadwan-masum-9147bb1a5">
-    <img align="center" width="30px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/raadwan-masum-9147bb1a5">
-    <img align="center" width="30px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" />
+  <a href="https://twitter.com/raad1masum">
+    <img align="center" width="30px" src="https://image.flaticon.com/icons/svg/733/733635.svg" />
   </a>
 </p>
