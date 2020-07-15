@@ -3,6 +3,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raad1masum&title_color=00e5ee&text_color=ffffff&bg_color=23262f" />
   <br>
   <br>
+  <hr>
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/raadwan-masum-9147bb1a5">
     <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
