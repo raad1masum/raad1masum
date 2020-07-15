@@ -4,7 +4,7 @@
   <br>
   <br>
   <a href="https://www.linkedin.com/in/raadwan-masum-9147bb1a5">
-    <img align="center" width="30px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" />
+    <img align="center" width="30px" src="https://image.flaticon.com/icons/svg/1384/1384030.svg" />
   </a>
   <a href="https://www.linkedin.com/in/raadwan-masum-9147bb1a5">
     <img align="center" width="30px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" />
