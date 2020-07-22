@@ -1,6 +1,6 @@
 [<img width="100%" src="https://raadwan.com/img/banner.gif">](https://raadwan.com/)
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raad1masum&title_color=00e5ee&text_color=ffffff&bg_color=23262f" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raad1masum&title_color=00e5ee&text_color=ffffff&bg_color=23262f&show_icons=true" />
   <br>
   <br>
   <hr>
