@@ -1,6 +1,8 @@
 [<img width="100%" src="https://raadwan.com/img/jumbotron.gif">](https://raadwan.com/)
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raad1masum&title_color=ff6188&text_color=ffffff&bg_color=2b292e&show_icons=true&icon_color=00d7ff&hide=stars,issues&count_private=true" />
+<!--- 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=raad1masum&title_color=ff6188&text_color=ffffff&bg_color=2b292e&show_icons=true&icon_color=00d7ff&hide=stars,issues&count_private=true" />
+-->
   <br>
   <br>
   <hr>
