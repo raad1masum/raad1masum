@@ -6,7 +6,7 @@
   <hr>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/raadwan-masum-9147bb1a5">
+  <a href="https://www.linkedin.com/in/raadwan-masum/">
     <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://www.youtube.com/channel/UCqkuaow2vqa6b9iSaAS0VKQ?view_as=subscriber">
